@@ -21,6 +21,7 @@ E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 
 where \(F_{FRET}\) is defined as:
 
+
 Eq. \ref{eq:E} is exactly the same for both ALEX and PAX.
 Conversely, the stoichiometry \(S\) is slightly different
 in the two cases. In ALEX we define \(S\) as:
