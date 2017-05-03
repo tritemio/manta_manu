@@ -18,7 +18,7 @@ With this notation we can define the total signal during
 D excitation (burst size):
 
 \[
-\
+\Lambda = 
 \label{eq:E}
 \]
 
