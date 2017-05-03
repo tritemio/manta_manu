@@ -61,7 +61,7 @@ and \ref{eq:Sgb} were the only difference is replacing
 
 \[
 S = \frac{F_{FRET} + F_{DexDem}}
-{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
+{F_{FRET} + F_{DexDem} + \tilde{F}_{AexAem}}
 \label{eq:S}
 \]
 
