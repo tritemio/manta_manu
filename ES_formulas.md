@@ -86,7 +86,7 @@ S = \frac{\Lambda}
 \[
 S_{\gamma\beta} = \frac{\Lambda_\gamma}
 {\Lambda_\gamma + \tilde{F}_{AexAem}/\beta}
-\label{eq:Sgb}
+\label{eq:Sgb_pa}
 \]
 
 In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
