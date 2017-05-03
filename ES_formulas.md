@@ -106,6 +106,8 @@ D-excitation signal (burst size):
 
 With this the expression for \(E\) and \(S\) become:
 
+
+
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
 {\Lambda_\gamma,PAX}
