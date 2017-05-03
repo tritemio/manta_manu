@@ -15,7 +15,7 @@ With this notation we can write the expression for
 \(E\):
 
 \[
-E = \frac{F_{DexAem}}{\gamma\,F_{DexDem} + F_{DexAem}}
+E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{DexAem}}
 \label{eq:E}
 \]
 
