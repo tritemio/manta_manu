@@ -55,5 +55,4 @@ In PAX, we do not measure the \(F_{AexAem}\) stream, but we can compute it as:
 
 With definition of eq. \ref{eq:pax_Faa} the expressions for \(S\) 
 and \(S_{\gamma\beta}\) become formally identical to eq. \ref{eq:S} 
-and \ref{eq:Sgb}
-were the olny
+and \ref{eq:Sgb}were the olny
