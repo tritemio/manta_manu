@@ -85,6 +85,7 @@ S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
 \]
 
 \[
-S_{\gamma\beta,PAX} = \frac{F_{DexAem} + \gamma\,(F_{DexDem} + F_{AexDem})}{F_{DexAem} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
+S_{\gamma\beta,PAX} = \frac{F_{DexAem} + \gamma\,(F_{DexDem} + F_{AexDem})}
+{F_{DexAem} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
