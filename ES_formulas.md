@@ -100,7 +100,7 @@ D-excitation signal as:
 \]
 
 \[
-\Lambda_\gamma,PAX = {\gamma\,(F_{DexDem} + F_{AexDem}) + 2\F_{FRET}}
+\Lambda_\gamma,PAX = {\gamma\,(F_{DexDem} + F_{AexDem}) + 2F_{FRET}}
 \label{eq:burstsize}
 \]
 
