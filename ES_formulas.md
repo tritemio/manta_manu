@@ -79,7 +79,7 @@ and \ref{eq:Sgb} were the only difference is replacing
 
 \[
 S = \frac{\Lambda}
-{\Lambda_\gamma + \tilde{F}_{AexAem}}
+{\Lambda + \tilde{F}_{AexAem}}
 \label{eq:S}
 \]
 
