@@ -53,7 +53,7 @@ Conversely, the stoichiometry \(S\) is slightly different
 in the two cases. In ALEX we define \(S\) as:
 
 \[
-S = \frac{\Lambda}{\Lambda_R + F_{AexAem}}
+S = \frac{\Lambda}{\Lambda + F_{AexAem}}
 \label{eq:S}
 \]
 
