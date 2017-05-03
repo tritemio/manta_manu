@@ -53,4 +53,4 @@ In PAX, we do not measure the \(F_{AexAem}\) stream, but we can compute it as:
 \label{eq:pax_Faa}
 \]
 
-With definition of eq. \ref{eq:}
+With definition of eq. \ref{eq:pa}
