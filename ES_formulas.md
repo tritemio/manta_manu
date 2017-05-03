@@ -84,7 +84,7 @@ S = \frac{\Lambda}
 \]
 
 \[
-S_{\gamma\beta} = \frac{F_{FRET} + \gamma F_{DexDem}}
+S_{\gamma\beta} = \frac{\Lambda_\gamma}
 {F_{FRET} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
