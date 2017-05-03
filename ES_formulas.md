@@ -61,7 +61,7 @@ and the corrected version \(S_{\gamma\beta}\) as:
 
 \[
 S_{\gamma\beta} = \frac{\Lambda}
-{\Lambda_R + F_{AexAem}/\beta}
+{\Lambda + F_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
 
