@@ -54,4 +54,4 @@ In PAX, we do not measure the \(F_{AexAem}\) stream, but we can compute it as:
 \]
 
 With definition of eq. \ref{eq:pax_Faa} the expressions for \(S\) 
-and \(S_{\gamma\beta}\) become the same as eq
+and \(S_{\gamma\beta}\) become the same as eq. 
