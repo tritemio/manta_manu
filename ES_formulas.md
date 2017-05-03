@@ -74,6 +74,6 @@ and \(S\). In particular, we can replace  \(F_{DexDem}\) with
 \(F_{DexDem} + F_{AexDem}\) and \(F_{DexAem}\) with \(2\,F_{DexAem}\).
 
 \[
-E_{PAX} = \frac{2\,F_{FRET}}{\gamma\,F_{DexDem} + F_{AexDem} + 2\F_{FRET}}
-\label{eq:E}
+E_{PAX} = \frac{2\,F_{FRET}}{\gamma\,F_{DexDem} + F_{AexDem} + 2\,F_{FRET}}
+\label{eq:Epax}
 \]
