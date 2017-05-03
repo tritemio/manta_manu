@@ -18,6 +18,7 @@ With this notation we can define the total signal during
 D excitation (burst size):
 
 
+
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:E}
