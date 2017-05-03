@@ -78,3 +78,12 @@ E_{PAX} = \frac{2\,F_{FRET}}{\gamma\,(F_{DexDem} + F_{AexDem}) + 2\,F_{FRET}}
 \label{eq:Epax}
 \]
 
+\[
+S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
+\label{eq:S}
+\]
+
+\[
+S_{\gamma\beta} = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
+\label{eq:Sgb}
+\]
