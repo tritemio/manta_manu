@@ -19,6 +19,12 @@ D excitation (burst size):
 
 
 
+
+\[
+E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
+\label{eq:E}
+\]
+
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:E}
