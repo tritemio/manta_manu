@@ -27,6 +27,13 @@ D excitation (burst size):
 \label{eq:burstsize_raw}
 \]
 
+where \(F_{FRET}\) is equal to \(F_{DexAem}\) after
+D-leakage and A-direct-excitation corrections:
+
+\[
+F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
+\label{eq:F_FRET}
+\]
 
 
 \[
