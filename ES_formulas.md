@@ -27,7 +27,7 @@ E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
-\label{eq:E}
+\label{eq:Epr}
 \]
 
 where \(F_{FRET}\) is equal to \(F_{DexAem}\) after
