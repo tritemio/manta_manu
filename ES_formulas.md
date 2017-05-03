@@ -27,6 +27,8 @@ D excitation (burst size):
 \label{eq:burstsize_raw}
 \]
 
+
+
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:E}
