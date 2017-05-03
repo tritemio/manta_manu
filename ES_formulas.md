@@ -65,7 +65,7 @@ S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
 
 \[
 S_{\gamma\beta} = \frac{F_{FRET} + \gamma F_{DexDem}}
-{F_{DexAem} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
+{F_{FRET} + \gamma F_{DexDem} + \tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
 
