@@ -17,12 +17,15 @@ fluorescent signal because of the D laser excitation.
 With this notation we can define the total signal during 
 D excitation (burst size):
 
+\[
+\Lambda_R = {F_{DexDem} + F_{FRET}}
+\label{eq:burstsize_raw}
+\]
 
 \[
 \Lambda = {\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:burstsize}
 \]
-
 
 where \(F_{FRET}\) is equal to \(F_{DexAem}\) after
 D-leakage and A-direct-excitation corrections:
