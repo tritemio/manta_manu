@@ -18,7 +18,7 @@ With this notation we can write the expression for
 \(E\):
 
 \[
-E = \frac{F_{FRET}}{\gamma\,F_{D_{ex}D_{em} + F_{FRET}}
+E = \frac{F_{FRET}}{\gamma\,F_{D_{ex}D_{em}} + F_{FRET}}
 \label{eq:E}
 \]
 
