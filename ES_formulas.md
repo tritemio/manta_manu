@@ -94,6 +94,16 @@ and derive an equivalent set of PAX enahanced expressions for \(E\)
 and \(S\). In particular, we can start defining a PAX-enhanced
 D-excitation signal as:
 
+\[
+\Lambda = {F_{DexDem} + F_{FRET}}
+\label{eq:burstsize_raw}
+\]
+
+\[
+\Lambda_\gamma = {\gamma\,F_{DexDem} + F_{FRET}}
+\label{eq:burstsize}
+\]
+
 
 
 \[
