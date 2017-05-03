@@ -63,7 +63,6 @@ S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + F_{AexAem}}
 \label{eq:S}
 \]
 
-
 \[
 S = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + F_{AexAem}/\beta}
 \label{eq:Sgb}
