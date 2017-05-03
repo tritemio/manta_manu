@@ -121,11 +121,11 @@ E_{PAX} = \frac{2\,F_{FRET}}
 \[
 S = \frac{\Lambda_{PAX}}
 {\Lambda_{PAX} + \tilde{F}_{AexAem}}
-\label{eq:S}
+\label{eq:Spax}
 \]
 
 \[
 S_{\Lambda_{\gamma,PAX}} = \frac{{\Lambda_{\gamma,PAX}}
 {\Lambda_{\gamma,PAX} + 2\tilde{F}_{AexAem}/\beta}
-\label{eq:Sgb_pa}
+\label{eq:Sgb_pax}
 \]
