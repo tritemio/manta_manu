@@ -108,7 +108,7 @@ With this the expression for \(E\) and \(S\) become:
 
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
-{\gamma\,(F_{DexDem} + F_{AexDem}) + 2\,F_{FRET}}
+{\Lambda_\gamma,PAX}
 \label{eq:Epax}
 \]
 
