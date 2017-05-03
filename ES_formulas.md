@@ -37,13 +37,6 @@ E_{PR} = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:Epr}
 \]
 
-where \(F_{FRET}\) is equal to \(F_{DexAem}\) after
-D-leakage and A-direct-excitation corrections:
-
-\[
-F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
-\label{eq:F_FRET}
-\]
 
 Eq. \ref{eq:E} is exactly the same for both ALEX and PAX.
 Conversely, the stoichiometry \(S\) is slightly different
