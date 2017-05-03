@@ -70,4 +70,4 @@ S = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + \tild
 
 In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
 and derive an equivalent set of PAX enahanced expressions for \(E\)
-and \(S\). The 
+and \(S\). The reson
