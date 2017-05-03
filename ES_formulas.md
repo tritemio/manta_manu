@@ -93,6 +93,7 @@ In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
 and derive an equivalent set of PAX enahanced expressions for \(E\)
 and \(S\). In particular, we can start defining a PAX-enhanced
 
+
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
 {\gamma\,(F_{DexDem} + F_{AexDem}) + 2\,F_{FRET}}
