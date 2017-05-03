@@ -108,7 +108,7 @@ With this the expression for \(E\) and \(S\) become:
 
 \[
 E_{PR,PAX} = \frac{2\,F_{FRET}}
-{\Lambda,PAX}
+{\Lambda_PAX}
 \label{eq:Epax}
 \]
 
