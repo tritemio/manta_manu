@@ -23,7 +23,7 @@ E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \]
 
 where \(F_{FRET}\) is equal to \(F_{DexAem}\) after
-D
+D-leakage
 
 \[
 F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
