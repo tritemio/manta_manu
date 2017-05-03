@@ -38,7 +38,7 @@ F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
 With this definition we can write expression for \(E\):
 
 \[
-E_{PR} = \frac{F_{FRET}}{\}
+E_{PR} = \frac{F_{FRET}}{\Gamma}
 \label{eq:Epr}
 \]
 
