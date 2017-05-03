@@ -43,7 +43,7 @@ E_{PR} = \frac{F_{FRET}}{\Lambda}
 \]
 
 \[
-E = \frac{F_{FRET}}{\Lambda}
+E = \frac{F_{FRET}}{\Lambda_\gamma}
 \label{eq:E}
 \]
 
