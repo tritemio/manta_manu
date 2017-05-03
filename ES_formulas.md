@@ -119,7 +119,7 @@ E_{PAX} = \frac{2\,F_{FRET}}
 \]
 
 \[
-S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
+S = \frac{\Lambda_\gamma,PAX}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
 \label{eq:S}
 \]
 
