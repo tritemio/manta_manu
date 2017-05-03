@@ -60,7 +60,7 @@ S = \frac{\Lambda_R}{\Lambda_R + F_{AexAem}}
 and the corrected version \(S_{\gamma\beta}\) as:
 
 \[
-S_{\gamma\beta} = \frac{F_{FRET} + \gamma F_{DexDem}}
+S_{\gamma\beta} = \frac{\Lambda_R}
 {F_{FRET} + \gamma F_{DexDem} + F_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
