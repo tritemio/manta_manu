@@ -35,7 +35,7 @@ S = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + F_{Ae
 \label{eq:Sgb}
 \]
 
-In PAX, we do not measure a \(F_{AexAem}\) stream, but we can compute it as:
+In PAX, we do not measure the \(F_{AexAem}\) stream, but we can compute it as:
 
 \[
 \tilde{F}_{AexAem} = F_{DAexAem} - F_{DexAem}
