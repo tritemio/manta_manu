@@ -74,6 +74,6 @@ and \(S\). In particular, we can replace  \(F_{DexDem}\) with
 \(F_{DexDem} + F_{AexDem}\) and \(F_{DexAem}\) with \(2\,F_{DexAem}\).
 
 \[
-E_{} = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
+E_{PA} = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:E}
 \]
