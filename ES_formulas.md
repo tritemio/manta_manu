@@ -104,7 +104,7 @@ D-excitation signal (burst size):
 \label{eq:burstsize}
 \]
 
-With this the e
+With this the expression 
 
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
