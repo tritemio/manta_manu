@@ -78,7 +78,7 @@ and \ref{eq:Sgb} were the only difference is replacing
 \(F_{AexAem}\) with \(\tilde{F}_{AexAem}\):
 
 \[
-S = \frac{F_{FRET} + F_{DexDem}}
+S = \frac{\Lambda_\gamma}
 {F_{FRET} + F_{DexDem} + \tilde{F}_{AexAem}}
 \label{eq:S}
 \]
