@@ -17,6 +17,7 @@ fluorescent signal because of the D laser excitation.
 With this notation we can define the total signal during 
 D excitation (burst size):
 
+
 \[
 \Lambda = {\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:burstsize}
