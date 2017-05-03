@@ -1,1 +1,1 @@
-In Periodic acceptor ex\cite{Doose_2007}
+In Periodic acceptor excitation\cite{Doose_2007}
