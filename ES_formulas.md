@@ -42,7 +42,7 @@ S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + F_{AexAem}}
 and the corrected version \(S_{\gamma\beta}\) as:
 
 \[
-S_{\gamma\beta} = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + F_{AexAem}/\beta}
+S_{\gamma\beta} = \frac{F_{FRET} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + F_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
 
