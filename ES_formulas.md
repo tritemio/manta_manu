@@ -125,7 +125,7 @@ S = \frac{\Lambda_{PAX}}
 \]
 
 \[
-S_{\Lambda_{\gamma,PAX}} =
+S_{\Lambda_{\gamma,PAX}} = \
 {\Lambda_{\gamma,PAX} + 2\tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
