@@ -3,7 +3,7 @@ In ALEX we have four basic photon streams:
 The \(F_{AexDem}\) stream only contains background 
 because there is no fluorescent emission in the D
 spectral band during A-laser excitation.
-For simplicity
+For simplicity we assume
 In PAX, there is a period with only D excitation
 that we denote as \(D_{ex}\), and a period with both D and A
 excitations that we call \(DA_{ex}\).
