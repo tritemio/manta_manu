@@ -26,7 +26,7 @@ E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \]
 
 \[
-E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
+E_ = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:Epr}
 \]
 
