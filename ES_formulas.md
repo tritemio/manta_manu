@@ -95,7 +95,7 @@ and \(S\). In particular, we can start defining a PAX-enhanced
 D-excitation signal as:
 
 \[
-\Lambda_PAX = {F_{DexDem}  + 2 F_{FRET}}
+\Lambda_PAX = {F_{DexDem} + + 2 F_{FRET}}
 \label{eq:burstsize_raw}
 \]
 
