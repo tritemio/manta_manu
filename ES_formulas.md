@@ -23,7 +23,7 @@ where \(F_{FRET}\) is defined as:
 
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
-\label{eq:F}
+\label{eq:Ffret}
 \]
 
 Eq. \ref{eq:E} is exactly the same for both ALEX and PAX.
