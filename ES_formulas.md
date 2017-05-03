@@ -57,5 +57,16 @@ With definition of eq. \ref{eq:pax_Faa} the expressions for \(S\)
 and \(S_{\gamma\beta}\) become formally identical to eq. \ref{eq:S} 
 and \ref{eq:Sgb} were the only difference is replacing 
 \(F_{AexAem}\) with \(\tilde{F}_{AexAem}\):
+\[
+S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + F_{AexAem}}
+\label{eq:S}
+\]
+
+and the corrected version \(S_{\gamma\beta}\) as:
+
+\[
+S = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + F_{AexAem}/\beta}
+\label{eq:Sgb}
+\]
 
 
