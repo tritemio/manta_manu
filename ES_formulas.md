@@ -91,8 +91,7 @@ S_{\gamma\beta} = \frac{\Lambda_\gamma}
 
 In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
 and derive an equivalent set of PAX enahanced expressions for \(E\)
-and \(S\). In particular, we can replace  \(F_{DexDem}\) with
-\(F_{DexDem} + F_{AexDem}\) and \(F_{DexAem}\) with \(2\,F_{DexAem}\).
+and \(S\). In particular, 
 
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
