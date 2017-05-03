@@ -7,3 +7,4 @@ separate detectors. The use of two lasers for excitation allows separating singl
 Single-molecule FRET periodic acceptor excitation (smFRET-PAX) \cite{Doose_2007} is a technique closely realted to smFRET-μsALEX where one laser is constantly ON and a second laser is alternated. This approach allows simplifying the optical
 setup while maintating the same advantages of smFRET-μsALEX, namely the abilty
 to resolve species based on the number of attached dyes.
+
