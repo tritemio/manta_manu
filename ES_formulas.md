@@ -23,7 +23,7 @@ D excitation (burst size):
 \]
 
 \[
-\Lambda_R = {\gamma\,F_{DexDem} + F_{FRET}}
+\Lambda_R = {F_{DexDem} + F_{FRET}}
 \label{eq:burstsize}
 \]
 
