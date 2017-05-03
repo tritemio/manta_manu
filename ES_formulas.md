@@ -22,7 +22,7 @@ E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 where \(F_{FRET}\) is defined as:
 
 \[
-F_{FRET} = F_{DexAem} -
+F_{FRET} = F_{DexAem} - 
 \label{eq:F_FRET}
 \]
 
