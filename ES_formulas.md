@@ -86,7 +86,7 @@ S = \frac{\Lambda}
 \[
 S_{\gamma\beta} = \frac{\Lambda_\gamma}
 {\Lambda_\gamma + \tilde{F}_{AexAem}/\beta}
-\label{eq:Sgb_pa}
+\label{eq:Sgb_pax}
 \]
 
 In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
@@ -96,7 +96,7 @@ D-excitation signal (burst size):
 
 \[
 \Lambda_{PAX} = {F_{DexDem} + F_{AexDem} + 2 F_{FRET}}
-\label{eq:burstsize_raw_pax}
+\label{eq:burstsize_raw_paxe}
 \]
 
 \[
