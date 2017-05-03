@@ -124,7 +124,7 @@ S = \frac{F_{DexAem} + F_{DexDem}}{F_{DexAem} + F_{DexDem} + \tilde{F}_{AexAem}}
 \]
 
 \[
-S_{\gamma\beta,PAX} = \frac{2 F_{FRET} + \gamma\,(F_{DexDem} + F_{AexDem})}
+S_{\Lambda_\gamma,PAX}
 {2 F_{FRET} + \gamma\,(F_{DexDem} + F_{AexDem}) + 2\tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb}
 \]
