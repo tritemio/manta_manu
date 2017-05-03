@@ -80,7 +80,7 @@ and \ref{eq:Sgb} were the only difference is replacing
 \[
 S = \frac{\Lambda}
 {\Lambda + \tilde{F}_{AexAem}}
-\label{eq:S_pax}
+\label{eq:Spax}
 \]
 
 \[
