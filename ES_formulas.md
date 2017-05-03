@@ -18,7 +18,7 @@ With this notation we can define the total signal during
 D excitation (burst size):
 
 \[
-\Lambda_R = {F_{DexDem} + F_{FRET}}
+\Lambda = {F_{DexDem} + F_{FRET}}
 \label{eq:burstsize_raw}
 \]
 
