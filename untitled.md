@@ -1,2 +1,2 @@
 In Periodic acceptor excitation (PAX)~\cite{Doose_2007} measurement, the
-donor (D) laser is constantly 
+donor (D) laser is constantly one
