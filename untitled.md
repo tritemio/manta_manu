@@ -1,1 +1,1 @@
-In Periodic\cite{Doose_2007}
+In Periodic acceptor\cite{Doose_2007}
