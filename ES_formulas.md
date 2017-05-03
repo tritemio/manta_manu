@@ -68,4 +68,4 @@ S = \frac{F_{DexAem} + \gamma F_{DexDem}}{F_{DexAem} + \gamma F_{DexDem} + \tild
 \label{eq:Sgb}
 \]
 
-In PAX we can take a
+In PAX we can take ad
