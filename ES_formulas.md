@@ -15,8 +15,7 @@ simply replacing \(A_{ex}\) with \(DA_{ex}\):
 Note however that \(F_{DAexDem}\) in PAX contains
 fluorescent signal because of the D laser excitation.
 With this notation we can define the total signal during 
-D excitation
-can be written as:
+D excitationcan be written as:
 
 
 \[
