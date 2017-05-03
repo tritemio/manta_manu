@@ -115,7 +115,7 @@ E_{PR,PAX} = \frac{2\,F_{FRET}}
 \[
 E_{PAX} = \frac{2\,F_{FRET}}
 {\Lambda_{\gamma,PAX}}
-\label{eq:Epax}
+\label{eq:Epaxe}
 \]
 
 \[
