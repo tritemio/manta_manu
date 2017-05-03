@@ -35,7 +35,7 @@ F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
 \label{eq:F_FRET}
 \]
 
-With
+With this definition
 \[
 E = \frac{F_{FRET}}{\gamma\,F_{DexDem} + F_{FRET}}
 \label{eq:E}
