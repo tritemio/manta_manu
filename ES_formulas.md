@@ -53,7 +53,7 @@ Conversely, the stoichiometry \(S\) is slightly different
 in the two cases. In ALEX we define \(S\) as:
 
 \[
-S = \frac{F_{FRET} + F_{DexDem}}{F_{FRET} + F_{DexDem} + F_{AexAem}}
+S = \frac{\}{F_{FRET} + F_{DexDem} + F_{AexAem}}
 \label{eq:S}
 \]
 
