@@ -54,7 +54,7 @@ E = \frac{F_{FRET}}{\Lambda_\gamma}
 \]
 
 
-Eq. \ref{eq:E} is exactly the same for both ALEX and PAX.
+
 Conversely, the stoichiometry \(S\) is slightly different
 in the two cases. In ALEX we define \(S\) as:
 
