@@ -4,7 +4,8 @@ methods, smFRET microsecond alternated excitation
 methods. In smFRET-μsALEX two exciting lasers are alternated with a
 period of a few tens o microseconds and the fluorescent emission is
 detected in two spectral bands (donor and acceptor, or D and A) by two 
-separate detectors. The use of two alternating lasers for excitation 
+separate detectors. The use of two alternating lasers for excitation,
+
 allows separating 
 singly- from doubly-labeled species, greatly extending the range of subpopulations that is possible to resolve in a sample. 
 As an example, dual-laser exitation allows separating D-only from 0 or low FRET species that would be undistinguishable with only a single excitation laser.
