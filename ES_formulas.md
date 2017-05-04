@@ -41,7 +41,7 @@ F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
 \label{eq:F_FRET}
 \]
 
-With this definitions, we can write the proximity ratio \(E_{PR}\) and FRET efficiency \(E\) expression (valid for both ALEX:
+With this definitions, we can write the proximity ratio \(E_{PR}\) and FRET efficiency \(E\) expression (valid for both ALEX and PAX:
 
 \[
 E_{PR} = \frac{F_{FRET}}{\Lambda}
