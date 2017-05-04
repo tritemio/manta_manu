@@ -10,7 +10,7 @@ the quantities are corrected for background\cite{Ingargiola_2016}.
 
 In PAX, like in ALEX, we have two alternation periods
 \(D_{ex}\)
-and \(DA_{ex}\): D e the two periods are referred as as \(D_{ex}\)
+and \(DA_{ex}\): D ecitation the two periods are referred as as \(D_{ex}\)
 for the one with D excitation
 that we denote as \(D_{ex}\), and a period with both D and A
 excitations that we call \(DA_{ex}\).
