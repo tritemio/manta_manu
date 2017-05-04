@@ -103,7 +103,7 @@ D-excitation signal (burst size):
 
 \[
 \Lambda_{PAX} = {F_{DexDem} + F_{AexDem} + 2 F_{FRET}}
-\label{eq:burstsizeraw_paxe}
+\label{eq:burstsizerawpaxe}
 \]
 
 \[
