@@ -6,7 +6,7 @@ spectral band during A-laser excitation.
 For simplicity, we assume here and in the following that all
 the quantities are corrected for background\cite{Ingargiola_2016}.
 
-In PAX,  period with only D excitation
+In PAX, the t period with only D excitation
 that we denote as \(D_{ex}\), and a period with both D and A
 excitations that we call \(DA_{ex}\).
 With this convention, we can name the four photon stream in PAX
