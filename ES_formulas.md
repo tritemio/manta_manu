@@ -137,3 +137,4 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 {\Lambda_{\gamma,PAX} + 2\tilde{F}_{AexAem}/\beta}
 \label{eq:Sgb_paxe}
 \]
+
