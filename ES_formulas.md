@@ -4,7 +4,7 @@ The \(F_{AexDem}\) stream only contains background
 because there is no fluorescent emission in the D
 spectral band during A-laser excitation.
 For simplicity, we assume here and in the following that all
-the quantities are corrected for background.
+the quantities are corrected for background\cite{Ingargiola_2016}.
 
 In PAX, there is a period with only D excitation
 that we denote as \(D_{ex}\), and a period with both D and A
