@@ -111,7 +111,7 @@ D-excitation signal (burst size):
 \label{eq:burstsize_paxe}
 \]
 
-Based on eq.~\ref{eq:burstsize_raw_paxe} and \reNext we can write the expressions for \(E\) and \(S\):
+Based on eq.~\ref{eq:burstsize_raw_paxe} and \ref{}Next we can write the expressions for \(E\) and \(S\):
 
 \[
 E_{PR,PAX} = \frac{2\,F_{FRET}}
