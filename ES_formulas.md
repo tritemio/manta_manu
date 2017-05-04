@@ -138,7 +138,7 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 \label{eq:Sgb_paxe}
 \]
 
-Eq.\ref{eq:Epr\_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
+Eq. \ref{eq:Epr\_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
 contains more photons than the classical expressions and therefore should
 result in lower shot-noise.
 However this effect is mitigated by the fact that \(F_{FRET}\)
