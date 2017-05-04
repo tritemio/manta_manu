@@ -54,8 +54,7 @@ E = \frac{F_{FRET}}{\Lambda_\gamma}
 \]
 
 
-
-Conversely, the stoichiometry \(S\) is slightly different
+The stoichiometry \(S\) is slightly different
 in the two cases. In ALEX we define \(S\) as:
 
 \[
