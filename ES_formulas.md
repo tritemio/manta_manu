@@ -140,4 +140,4 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 
 Eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
 contains more photons than the classical expressions.
-However this effect is mit
+However this effect is mitica
