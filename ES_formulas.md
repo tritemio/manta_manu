@@ -42,7 +42,7 @@ F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
 \label{eq:F_FRET}
 \]
 
-With this definition we can write the expressions for the proximity ratio \(E_{PR}\) and FRET efficiency\(E\):
+With this definition we can write the expressions for the proximity ratio \(E_{PR}\) and FRET efficiency \(E\):
 
 \[
 E_{PR} = \frac{F_{FRET}}{\Lambda}
