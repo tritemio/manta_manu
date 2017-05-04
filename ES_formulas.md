@@ -1,4 +1,4 @@
-In ALEX we have four basic photon streams: 
+In ALEX we have tfour basic photon streams: 
 \(F_{DexDem}, F_{DexAem}, F_{AexDem}, F_{AexAem}\).
 The \(F_{AexDem}\) stream only contains background 
 because there is no fluorescent emission in the D
