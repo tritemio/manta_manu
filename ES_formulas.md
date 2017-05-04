@@ -11,7 +11,7 @@ the quantities are corrected for background\cite{Ingargiola_2016}.
 Similarly to ALEX, in PAX we have two alternation periods
 \(D_{ex}\) and \(DA_{ex}\) representing respectively D 
 and D+A laser excitation and two (D and A) detectors.
-As in ALEX, conbining different excitation and detectores four basic PAX photon streams are analogous to the ALEX ones
+As in ALEX, conbining different excitation preand detectores four basic PAX photon streams are analogous to the ALEX ones
 and can be denoted with the same simbology by replacing
 \(A_{ex}\) with \({DA}_{ex}\):
 \(F_{DexDem}, F_{DexAem}, F_{DAexDem}, F_{DAexAem}\).
