@@ -20,7 +20,7 @@ Differently from ALEX, all four photon streams in PAX
 contain useful fluorescent signal. In particular,
 \(F_{DAexDem}\) contains D fluorescence due to D laser excitation,
 while the corresponding term \(F_{AexDem}\) in ALEX contains 
-only background as note
+only background as noted before.
 With this notation, in both ALEX and PAX, we can define 
 the total signal during D excitation (e.g. burst size):
 
