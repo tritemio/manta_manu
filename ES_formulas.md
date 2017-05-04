@@ -138,4 +138,4 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 \label{eq:Sgb_paxe}
 \]
 
-Since eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe,eq:Spaxe, eq:Sgb_paxe}
+Since eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe, eq:Sgb_paxe}
