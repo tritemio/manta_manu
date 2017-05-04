@@ -16,7 +16,7 @@ we obtain four basic PAX photon streams named
 \(A_{ex}\) with \({DA}_{ex}\):
 \(F_{DexDem}, F_{DexAem}, F_{DAexDem}, F_{DAexAem}\).
 The only difference with the ALEX photon stream is that 
-\(A_{ex}\) in 
+\(A_{ex}\) in ALEX
 is replaced with \(DA_{ex}\) in PAX.
 Note however that, in PAX, \(F_{DAexDem}\) contains
 fluorescent signal due to D laser excitation.
