@@ -142,5 +142,5 @@ Eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
 contains more photons than the classical expressions and therefore should
 result in lower shot-noise.
 However this effect is mitigated by the fact that \(F_{FRET}\)
-is counted twice to compensate for the doubling of the D signal
+is counted twice (to compensate for the doubling of the D signal
 and therefore its shot-noise is amplified.
