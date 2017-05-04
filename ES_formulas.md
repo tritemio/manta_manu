@@ -1,6 +1,6 @@
 In ALEX we have two alternation periods \(D_{ex}\)
 and \(A_{ex}\) (respectively D or A excitation) and 
-two (D and A) detectors. This results four basic photon streams: 
+two (D and A) detectors. This results in four basic photon streams: 
 \(F_{DexDem}, F_{DexAem}, F_{AexDem}, F_{AexAem}\).
 The \(F_{AexDem}\) stream only contains background 
 because there is no fluorescent emission in the D
