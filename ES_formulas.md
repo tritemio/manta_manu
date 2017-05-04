@@ -1,4 +1,5 @@
-In ALEX we have two alternation periods \(D_{ex}\)four basic photon streams: 
+In ALEX we have two alternation periods \(D_{ex}\)
+four basic photon streams: 
 \(F_{DexDem}, F_{DexAem}, F_{AexDem}, F_{AexAem}\).
 The \(F_{AexDem}\) stream only contains background 
 because there is no fluorescent emission in the D
