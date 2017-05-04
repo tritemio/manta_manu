@@ -18,7 +18,7 @@ Formally, the only difference with the ALEX photon stream is that
 \(A_{ex}\) in ALEX is replaced with \(DA_{ex}\) in PAX.
 Note however that, in PAX, \(F_{DAexDem}\) contains
 fluorescent signal due to D laser excitation.
-With this notation, in both ALEX and P we can define the total signal during 
+With this notation, in both ALEX and PAX, we can define the total signal during 
 D excitation (e.g. burst size):
 
 \[
