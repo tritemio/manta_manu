@@ -8,7 +8,7 @@ spectral band during A-laser excitation.
 For simplicity, we assume here and in the following that all
 the quantities are corrected for background\cite{Ingargiola_2016}.
 
-Similarly to ALEX, in PAX we have two (D and A) detectorstwo alternation periods
+Similarly to ALEX, in PAX we have two (D and A) detectors two alternation periods
 \(D_{ex}\) and \(DA_{ex}\) representing respectively D 
 and D+A laser excitation.
 As in ALEX, combining the two excitation periods and the two detectors,
