@@ -9,7 +9,7 @@ For simplicity, we assume here and in the following that all
 the quantities are corrected for background\cite{Ingargiola_2016}.
 
 Similarly to ALEX, in PAX we have two alternation periods
-\(D_{ex}\) and \(DA_{ex}\) representing D 
+\(D_{ex}\) and \(DA_{ex}\) representing respectively D 
 and D+A laser excitation respectively. 
 Similarly, the four PAX photon stream in PAX
 can be obtained by replacing \(A_{ex}\) with \({DA}_{ex}\):
