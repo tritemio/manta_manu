@@ -8,7 +8,7 @@ spectral band during A-laser excitation.
 For simplicity, we assume here and in the following that all
 the quantities are corrected for background\cite{Ingargiola_2016}.
 
-Similar ALEX, we have two alternation periods
+Similarly to ALEX, we have two alternation periods
 \(D_{ex}\) and \(DA_{ex}\) representing D excitation 
 and D+A excitation respectively. 
 Similarly, the four PAX photon stream in PAX
