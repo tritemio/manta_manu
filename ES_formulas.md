@@ -96,7 +96,7 @@ S_{\gamma\beta} = \frac{\Lambda_\gamma}
 \]
 
 In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
-and derive an equivalent set of PAX-enahanced expressions for \(E\)
+and derive an equivalent set of "PAX-enahanced expressions for \(E\)
 and \(S\). In particular, we can start defining a PAX-enhanced
 D-excitation signal (burst size):
 
