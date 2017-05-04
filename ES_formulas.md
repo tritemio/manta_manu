@@ -7,7 +7,7 @@ For simplicity, we assume here and in the following that all
 the quantities are corrected for background\cite{Ingargiola_2016}.
 
 In PAX, the two periods are referred as as \(D_{ex}\)
-with only D excitation
+for the one  D excitation
 that we denote as \(D_{ex}\), and a period with both D and A
 excitations that we call \(DA_{ex}\).
 With this convention, we can name the four photon stream in PAX
