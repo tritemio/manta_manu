@@ -42,7 +42,7 @@ F_{FRET} = F_{DexAem} - Lk\,F_{DexDem} - Dir
 \label{eq:F_FRET}
 \]
 
-With this definition we can write the expressions for \(E_{PR}\) and \(E\):
+With this definition we can write the expressions for the pro\(E_{PR}\) and \(E\):
 
 \[
 E_{PR} = \frac{F_{FRET}}{\Lambda}
