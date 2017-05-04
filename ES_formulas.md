@@ -112,7 +112,7 @@ by including \(F_{AexDem}\) as follows:
 \]
 
 Based on eq.\ref{eq:burstsizerawpaxe} and \ref{eq:burstsize_paxe}, 
-we can write the PAX-enhanced expressions for \(E\) and \(S\):
+we can write PAX-enhanced expressions for \(E\) and \(S\):
 
 \[
 E_{PR,PAX} = \frac{2\,F_{FRET}}
