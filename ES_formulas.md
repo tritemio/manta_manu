@@ -55,8 +55,8 @@ E = \frac{F_{FRET}}{\Lambda_\gamma}
 
 
 While eq. \ref{eq:Epr} and \ref{eq:E} are exactly the same for both ALEX and PAX,
-the stoichiometry \(S\) expression is slightly different
-. In ALEX we define \(S\) as:
+the stoichiometry \(S\) expression is slightly different. 
+In ALEX we define \(S\) as:
 
 \[
 S = \frac{\Lambda}{\Lambda + F_{AexAem}}
