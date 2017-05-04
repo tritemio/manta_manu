@@ -15,7 +15,7 @@ Correspondingly, the four PAX photon stream in PAX
 can be obtained by replacing \(A_{ex}\) with \(DA_{ex}\):
 \(F_{DexDem}, F_{DexAem}, F_{DAexDem}, F_{DAexAem}\).
 Note however that, in PAX, \(F_{DAexDem}\) contains
-fluorescent signal because of the D laser excitation.
+fluorescent signal due to D laser excitation.
 With this notation we can define the total signal during 
 D excitation (burst size):
 
