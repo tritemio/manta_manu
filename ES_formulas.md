@@ -138,5 +138,5 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 \label{eq:Sgb_paxe}
 \]
 
-Since eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
-contains more photons than the classical expression
+Eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
+contains more photons than the classical expression.
