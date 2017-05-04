@@ -111,7 +111,7 @@ D-excitation signal (burst size):
 \label{eq:burstsize_paxe}
 \]
 
-Based on eq.~\ref{eq:burstsize_raw_paxe} and \ref{eq:burstsize_paxe}, we can write the PAX-enaexpressions for \(E\) and \(S\):
+Based on eq.~\ref{eq:burstsize_raw_paxe} and \ref{eq:burstsize_paxe}, we can write the PAX-enancedexpressions for \(E\) and \(S\):
 
 \[
 E_{PR,PAX} = \frac{2\,F_{FRET}}
