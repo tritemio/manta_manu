@@ -20,7 +20,7 @@ Formally, the only difference with the ALEX photon stream is that
 Note however that, in PAX, \(F_{DAexDem}\) contains
 fluorescent signal due to D laser excitation.
 With this notation we can define the total signal during 
-D excitation (burst size):
+D excitation (e.g. burst size):
 
 \[
 \Lambda = {F_{DexDem} + F_{FRET}}
