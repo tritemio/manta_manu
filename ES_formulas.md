@@ -10,7 +10,7 @@ the quantities are corrected for background\cite{Ingargiola_2016}.
 
 Similarly to ALEX, in PAX we have two (D and A) detectors and
 two laser alternation periods \(D_{ex}\) and \(DA_{ex}\) denoting,
-respectively, D and D+A laser excitation.
+respectively, D and D+A excitation.
 As in ALEX, combining the two excitation periods and the two detectors,
 we obtain four basic PAX photon streams named
 \(A_{ex}\) with \({DA}_{ex}\):
