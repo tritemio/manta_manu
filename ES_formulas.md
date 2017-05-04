@@ -12,7 +12,7 @@ In PAX, like in ALEX, we have two alternation periods
 \(D_{ex}\) and \(DA_{ex}\) representing D excitation 
 and D+A excitation respectively. 
 Correspondingly, the four PAX photon stream in PAX
-simply replacing \(A_{ex}\) with \(DA_{ex}\):
+can be o replacing \(A_{ex}\) with \(DA_{ex}\):
 \(F_{DexDem}, F_{DexAem}, F_{DAexDem}, F_{DAexAem}\).
 Note however that \(F_{DAexDem}\) in PAX contains
 fluorescent signal because of the D laser excitation.
