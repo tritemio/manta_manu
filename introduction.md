@@ -1,5 +1,6 @@
 Among the solution-based single-molecule FRET (smFRET)
-methods, smFRET microsecond alternated excitation (smFRET-μsALEX)\cite{Lee_2005} is one of the most powerful
+methods, smFRET microsecond alternated excitation 
+(smFRET-μsALEX)\cite{Lee_2005} is one of the most powerful
 . In smFRET-μsALEX two exciting lasers are alternated with a
 period of a few tens o microseconds and the fluorescent emission is
 detected in two spectral bands (donor and acceptor, or D and A) by two 
