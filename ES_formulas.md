@@ -99,7 +99,7 @@ In PAX we can take advantage of the additional signal in \(F_{AexDem}\)
 and derive an equivalent set of "PAX-enahanced" expressions for \(E\)
 and \(S\). We can start extending the definitions of total FRET signal 
 of eq. \ref{eq:burstsize_raw} and \ref{eq:burstsize}
-by including :
+by including F_{AexDem}:
 
 \[
 \Lambda_{PAX} = {F_{DexDem} + F_{AexDem} + 2 F_{FRET}}
