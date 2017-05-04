@@ -139,4 +139,4 @@ S_{\Lambda_{\gamma,PAX}} = \frac{\Lambda_{\gamma,PAX}}
 \]
 
 Since eq.\ref{eq:Epr_paxe}, \ref{eq:Epaxe}, \ref{eq:Spaxe} and \ref{eq:Sgb_paxe}
-contains more photons 
+contains more photons tha
