@@ -1,4 +1,4 @@
-I solution-based single-molecule FRET
+In solution-based single-molecule FRET
 experiments is called single-molecule FRET microsecond alternated excitation (smFRET-μsALEX)\cite{Lee_2005}. In smFRET-μsALEX two exciting lasers are alternated with a
 period of a few tens o microseconds and the fluorescent emission is
 detected in two spectral bands (donor and acceptor, or D and A) by two 
