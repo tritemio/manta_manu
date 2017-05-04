@@ -27,7 +27,7 @@ D excitation (e.g. burst size):
 \label{eq:burstsize_raw}
 \]
 
-and the \(corrected version:
+and the \(\corrected version:
 
 \[
 \Lambda_\gamma = {\gamma\,F_{DexDem} + F_{FRET}}
