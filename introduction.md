@@ -1,4 +1,4 @@
-# ALEX and 
+# ALEX and PAX
 
 Among the solution-based single-molecule FRET (smFRET)
 methods, *microsecond alternated excitation* 
