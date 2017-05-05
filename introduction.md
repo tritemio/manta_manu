@@ -1,4 +1,4 @@
-#
+# 
 
 Among the solution-based single-molecule FRET (smFRET)
 methods, *microsecond alternated excitation* 
